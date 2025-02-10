@@ -1,0 +1,92 @@
+id,name,weight,price,img,id_catalog
+1,Торт "Цветочная поляна",4.5 кг.,8500,img/Foto - Tort/Tort_1.jpg,2
+2,Торт "Крем-Pink",3.85 кг.,4500,img/Foto - Tort/Tort_2.jpg,2
+3,Торт "Ванильная фруктоза",2.7 кг.,5200,img/Foto - Tort/Tort_3.jpg,2
+4,Торт "Choco РАЙ",4.1 кг.,7000,img/Foto - Tort/Tort_4.jpg,2
+5,Торт "Воздушная крошка",6.0 кг.,8000,img/Foto - Tort/Tort_5.jpg,2
+6,Торт "Фруктовый поцелуй",3.79 кг.,6000,img/Foto - Tort/Tort_6.jpg,2
+7,Торт "Розочка",4.0 кг.,3500,img/Foto - Tort/Tort_7.jpg,2
+8,Торт "Лайм брюс",3.78 кг.,4000,img/Foto - Tort/Tort_8.jpg,2
+9,Торт "Муравейник",6.25 кг.,7750,img/Foto - Tort/Tort_9.jpg,2
+10,Набор тортиков "Mix-Lix",9 шт. ≈ 4.5 кг.,11000,img/Foto - Tort/Tort_10.jpg,2
+11,Торт "Японское чудо",4.75 кг.,5250,img/Foto - Tort/Tort_11.jpg,2
+12,Торт "OREO",4.2 кг.,10500,img/Foto - Tort/Tort_12.jpg,2
+13,Торт "Слоеная остринка",3.1 кг.,3200,img/Foto - Tort/Tort_13.jpg,2
+14,Торт "Ореховый закат",5.2 кг.,8000,img/Foto - Tort/Tort_14.jpg,2
+15,Торт "Фруктовый сад",4.0 кг.,9700,img/Foto - Tort/Tort_15.jpg,2
+16,Торт "Паучья нить",3.87 кг.,8000,img/Foto - Tort/Tort_16.jpg,2
+17,Торт "Ореховая вишенка",4.5 кг.,4400,img/Foto - Tort/Tort_17.jpg,2
+18,Торт "Праздничное лето",4.71 кг.,10350,img/Foto - Tort/Tort_18.jpg,2
+19,Торт "Вишенка на креме",4.3 кг.,9800,img/Foto - Tort/Tort_19.jpg,2
+20,Торт "Коралловый риф",6.34 кг.,7900,img/Foto - Tort/Tort_20.jpg,2
+21,Торт "Любовное послание",3.0 кг.,6750,img/Foto - Tort/Tort_21.jpg,2
+22,Торт "Подарок счастья",3.83 кг.,9000,img/Foto - Tort/Tort_22.jpg,2
+23,Кекс "Сезон года",1 шт.,350,img/Foto - Keks/Keks_1.jpg,3
+24,Кекс "Мороженое OREO",1 шт.,280,img/Foto - Keks/Keks_2.jpg,3
+25,Набор "Ореховый хор",3 шт.,600,img/Foto - Keks/Keks_3.jpg,3
+26,Кекс "Классическое Love",1 шт.,250,img/Foto - Keks/Keks_4.jpg,3
+27,Кекс "Алфавит любви",1 шт.,310,img/Foto - Keks/Keks_5.jpg,3
+28,Кекс "Миндальный сорт",1 шт.,140,img/Foto - Keks/Keks_6.jpg,3
+29,Кекс "Инь-Янь",1 шт.,375,img/Foto - Keks/Keks_7.jpg,3
+30,Кекс "Кубик шоколада",1 шт.,180,img/Foto - Keks/Keks_8.jpg,3
+31,Кекс "Ромашка",1 шт.,175,img/Foto - Keks/Keks_9.jpg,3
+32,Кекс "Цаеток счастья",1 шт.,175,img/Foto - Keks/Keks_10.jpg,3
+33,Кекс "Африканский",1 шт.,150,img/Foto - Keks/Keks_11.jpg,3
+34,Кекс "Крошка латте",1 шт.,215,img/Foto - Keks/Keks_12.jpg,3
+35,Кекс "Шоколадный шар",1 шт.,450,img/Foto - Keks/Keks_13.jpg,3
+36,Кекс "Гроза",1 шт.,235,img/Foto - Keks/Keks_14.jpg,3
+37,Кекс "Happy birthday",1 шт.,315,img/Foto - Keks/Keks_15.jpg,3
+38,Кекс "Зеленая правда",1 шт.,195,img/Foto - Keks/Keks_16.jpg,3
+39,Кекс "Санта пал",1 шт.,240,img/Foto - Keks/Keks_17.jpg,3
+40,Кекс "Классический",1 шт.,120,img/Foto - Keks/Keks_18.jpg,3
+41,Кекс "Шипучка",1 шт.,420,img/Foto - Keks/Keks_19.jpg,3
+42,Кекс "Лайм в коктеле",1 шт.,260,img/Foto - Keks/Keks_20.jpg,3
+43,Набор "Lite",10 шт.,1850,img/Foto - Keks/Keks_21.jpg,3
+44,Кекс "Прелесная любовь",1 шт.,470,img/Foto - Keks/Keks_22.jpg,3
+45,Кекс "Морская лагуна",1 шт.,320,img/Foto - Keks/Keks_23.jpg,3
+46,Пончик "Бабл ти",3 шт.,600,img/Foto - Ponchik/Ponchik_1.jpg,4
+47,Набор "Классик",10 шт.,1300,img/Foto - Ponchik/Ponchik_2.jpg,4
+48,Пончик "Прелесть",3 шт.,645,img/Foto - Ponchik/Ponchik_3.jpg,4
+49,Пончик "Романтика",6 шт.,960,img/Foto - Ponchik/Ponchik_4.jpg,4
+50,Пончик "Монетка",6 шт.,1050,img/Foto - Ponchik/Ponchik_5.jpg,4
+51,Набор "Однотонный вкус",10 шт.,1500,img/Foto - Ponchik/Ponchik_6.jpg,4
+52,Пончик "Круэлло",3 шт.,460,img/Foto - Ponchik/Ponchik_7.jpg,4
+53,Пончик "Пляжная искра",6 шт.,1110,img/Foto - Ponchik/Ponchik_8.jpg,4
+54,Пончик "Вишенки",3 шт.,360,img/Foto - Ponchik/Ponchik_9.jpg,4
+55,Пончик "Искусство",6 шт.,1050,img/Foto - Ponchik/Ponchik_10.jpg,4
+56,Пончик "Фигурка",8 шт.,1280,img/Foto - Ponchik/Ponchik_11.jpg,4
+57,Пончик "Шоколадная звезда",3 шт.,405,img/Foto - Ponchik/Ponchik_12.jpg,4
+58,Пончик "Звездная комета",6 шт.,900,img/Foto - Ponchik/Ponchik_13.jpg,4
+59,Пончик "Паутинка",8 шт.,1200,img/Foto - Ponchik/Ponchik_14.jpg,4
+60,Набор "Классическая стружка",10 шт.,1350,img/Foto - Ponchik/Ponchik_15.jpg,4
+61,Пончик "Пустышка",8 шт.,800,img/Foto - Ponchik/Ponchik_16.jpg,4
+62,Пончик "Сияние",6 шт.,750,img/Foto - Ponchik/Ponchik_17.jpg,4
+63,Пончик "Мини-pink",3 шт.,345,img/Foto - Ponchik/Ponchik_18.jpg,4
+64,Пончик "Колёсико",6 шт.,720,img/Foto - Ponchik/Ponchik_19.jpg,4
+65,Пончик "Снежинка",3 шт.,330,img/Foto - Ponchik/Ponchik_20.jpg,4
+66,Пончик "Муравейник",3 шт.,360,img/Foto - Ponchik/Ponchik_21.jpg,4
+67,Пончик "Медок",6 шт.,840,img/Foto - Ponchik/Ponchik_22.jpg,4
+68,Пончик "Сетка",3 шт.,390,img/Foto - Ponchik/Ponchik_23.jpg,4
+69,Булочка с ябл. повидлом,1 шт. ≈ 350 гр.,215,img/Foto - Bun/Bun_10.jpg,1
+70,Булочка с воздушным тестом,5 шт. ≈ 230 гр.,350,img/Foto - Bun/Bun_12.jpg,1
+71,Булочка с заварным кремом,2 шт. ≈ 160 гр.,260,img/Foto - Bun/Bun_4.jpg,1
+72,Булочка закрученная с изюмом,6 шт. ≈ 240 гр.,450,img/Foto - Bun/Bun_13.jpg,1
+73,Булочка со сгущеным молоком,5 шт. ≈ 350 гр.,720,img/Foto - Bun/Bun_14.jpg,1
+74,Каравай с кунжутом,1 шт. ≈ 800 гр.,1250,img/Foto - Bun/Bun_15.jpg,1
+75,Слойки с изюмом,2 шт. ≈ 280 гр.,460,img/Foto - Bun/Bun_16.jpg,1
+76,Булочка с желе "Манго",5 шт. ≈ 435 гр.,725,img/Foto - Bun/Bun_17.jpg,1
+77,Рафаэл,4 шт. ≈ 280 гр.,1280,img/Foto - Bun/Bun_18.jpg,1
+78,Крученная слойка,1 шт. ≈ 370 гр.,485,img/Foto - Bun/Bun_19.jpg,1
+79,Пышная булочка со вкусом,6 шт. ≈ 520 гр.,830,img/Foto - Bun/Bun_11.jpg,1
+80,Рулет с маком,1 шт. ≈ 660 гр.,380,img/Foto - Bun/Bun_21.jpg,1
+81,Эклер с заварным кремом,1 шт. ≈ 140 гр.,375,img/Foto - Bun/Bun_22.jpg,1
+82,Мини булочка с шоколадом,5 шт. ≈ 380 гр.,745,img/Foto - Bun/Bun_20.jpg,1
+83,Булочка с маком в шоколаде,1 шт. ≈ 570 гр.,550,img/Foto - Bun/Bun_1.jpg,1
+84,Круассан покрытый джемом,3 шт. ≈ 320 гр.,530,img/Foto - Bun/Bun_2.jpg,1
+85,Рожок с джемом "Вишня",1 шт. ≈ 380 гр.,320,img/Foto - Bun/Bun_3.jpg,1
+86,Пирожное с кремом,4 шт. ≈ 220 гр.,450,img/Foto - Bun/Bun_23.jpg,1
+87,Пышка с кунжутом,1 шт. ≈ 475 гр.,430,img/Foto - Bun/Bun_5.jpg,1
+88,Крученная слойка с джемом,3 шт. ≈ 310 гр.,520,img/Foto - Bun/Bun_6.jpg,1
+89,Ромашка,1 шт. ≈ 900 гр.,750,img/Foto - Bun/Bun_7.jpg,1
+90,Пирожное с мороженым,5 шт. ≈ 500 гр.,820,img/Foto - Bun/Bun_8.jpg,1
+91,Пирамидка с изюмом,1 шт. ≈ 215 гр.,185,img/Foto - Bun/Bun_9.jpg,1

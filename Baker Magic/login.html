@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Вход</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="headercont" style="background-color: BlanchedAlmond;">
+    <div class="header">
+        <div class="logo">
+            <img src="img/Logo.png" alt="">
+        </div>
+        <div class="menu">
+            <a href="index.php">Главная</a>
+            <a href="catalog.php">Каталог</a>
+            <a href="forms.php">Обратная связь</a>
+            <a href="about.php">О компаний</a>
+        </div>
+        <div class="icons">
+            <a href="login.html"><i class="fa  fa-user" aria-hidden="true"></i></a>
+        </div>
+    </div>
+</div>
+<div class="login_cont">
+    <h1>Авторизация</h1>
+    <form action="login.php" method="post">
+        <input type="text" placeholder="Логин или Email" name="login" class="<?php echo isset($errors['login']) ? 'error-input' : ''; ?>">
+        <input type="password" placeholder="Пароль" name="password" class="<?php echo isset($errors['password']) ? 'error-input' : ''; ?>">
+        <button type="submit">Войти</button>
+    </form>
+    <p style="text-align: center;">Если вы не Зарегистрированы то перейдите >> <a href="register.html">Регистрация</a></p>
+</div>
+</body>
+</html>

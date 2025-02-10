@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Регистрация</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="headercont" style="background-color: BlanchedAlmond;">
+    <div class="header">
+        <div class="logo">
+            <img src="../img/Logo.png" alt="">
+        </div>
+        <div class="menu">
+            <a href="index.php">Главная</a>
+            <a href="catalog.php">Каталог</a>
+            <a href="forms.php">Обратная связь</a>
+            <a href="about.php">О компаний</a>
+        </div>
+        <div class="icons">
+            <a href="login.html"><i class="fa  fa-user" aria-hidden="true"></i></a>
+        </div>
+    </div>
+</div>
+<div class="reg_cont">
+    <h1>Регистрация</h1>
+    <form action="reg.php" method="post">
+        <h2 style="color: SaddleBrown; margin-top: 20px; font-weight: 400;">Контактные данные</h2>
+        <p style="margin-top: 15px; text-align: center; margin-right: 445px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>Имя</big></p>
+        <input type="text" placeholder="Имя" name="name">
+        <p style="margin-top: 15px; text-align: center; margin-right: 410px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>Фамилия</big></p>
+        <input type="text" placeholder="Фамилия" name="surname">
+        <p style="margin-top: 15px; text-align: center; margin-right: 425px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>Логин</big></p>
+        <input type="text" placeholder="Логин" name="login">
+        <p style="margin-top: 15px; text-align: center; margin-right: 425px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>E-Mail</big></p>
+        <input type="text" placeholder="Email" name="email">
+        <p style="margin-top: 15px; text-align: center; margin-right: 400px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>Телефон</big></p>
+        <input type="text" placeholder="Телефон" name="number">
+        <p style="margin-top: 15px; text-align: center; margin-right: 345px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>Страна/город</big></p>
+        <div class="select-wrapper">
+            <input type="text" placeholder="Выберите Страна/Город" name="city" id="citySelect" readonly>
+            <div class="arrow-icon" onclick="showCityOptions()" style="color: lime;">▼</div>
+            <div id="cityOptions" class="city-options">
+                <div onclick="selectCity('Казахстан/Петропавловск')">Петропавловск</div>
+                <div onclick="selectCity('Казахстан/Алматы')">Алматы</div>
+                <div onclick="selectCity('Казахстан/Астана')">Астана</div>
+                <div onclick="selectCity('Казахстан/Павлодар')">Павлодар</div>
+                <div onclick="selectCity('Казахстан/Костанай')">Костанай</div>
+                <div onclick="selectCity('Казахстан/Кызылорда')">Кызылорда</div>
+                <div onclick="selectCity('Казахстан/Караганда')">Караганда</div>
+                <div onclick="selectCity('Казахстан/Шимкент')">Шимкент</div>
+                <div onclick="selectCity('Казахстан/Тараз')">Тараз</div>
+            </div>
+        </div>
+        <h2 style="color: SaddleBrown; margin-top: 20px; font-weight: 400;">Ваш пароль</h2>
+        <p style="margin-top: 15px; text-align: center; margin-right: 415px;"><a href="#" style="color: red; text-decoration: none;">*</a><a> </a><big>Пароль</big></p>
+        <input type="password" placeholder="Пароль" name="password">
+        <button type="submit">Зарегистрироваться</button>
+    </form>
+    <p>Если вы Зарегистрированы то перейдите >> <a href="login.html">Вход</a></p>
+</div>
+<script>
+    function showCityOptions() {
+        document.getElementById("cityOptions").classList.toggle("show");
+    }
+    function selectCity(city) {
+        document.getElementById("citySelect").value = city;
+        document.getElementById("cityOptions").classList.remove("show");
+        document.querySelector(".arrow-icon").style.color = "lime";
+    }
+    window.onclick = function(event) {
+        if (!event.target.matches('.arrow-icon')) {
+            var dropdowns = document.getElementsByClassName("city-options");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>
